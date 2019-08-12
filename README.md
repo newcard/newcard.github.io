@@ -2,7 +2,7 @@
 
 用着不错，分享给大家，有需要的朋友通过本文注册吧，有25美元的奖励，具体看下面的介绍，本文会长期更新
 
-[payoneer](https://share.payoneer.com/nav/QddYoACaq2TqdDFpCXzEU27pSfRFhu0qyMUsj0VQwYg9NDTRmr5qejSq3pZETJCogMpGAS-cO4AP1INrebZmPw2)是一个提供在线支付和线上收付款服务的公司，简称p卡，2005年成立于美国的纽约(其实它是一个以色列公司)。最近几年，其发展非常迅速，在全世界超过200多个国家都有开展业务，相较于paypal高额的手续费用，payoneer正受到越来越多人的欢迎和选择，就连google每年举办的面向全球的大学生的编程实习项目，就是跟payoneer合作来给不同国家的学生发放助学金的
+[payoneer](https://share.payoneer.com/nav/QddYoACaq2TqdDFpCXzEU27pSfRFhu0qyMUsj0VQwYg9NDTRmr5qejSq3pZETJCogMpGAS-cO4AP1INrebZmPw2)是一个提供在线支付和线上收付款服务的公司，简称p卡，2005年成立于美国的纽约(其实它是一个以色列公司)。最近几年，其发展非常迅速，在全世界超过200多个国家都有开展业务，相较于paypal高额的手续费用，payoneer正受到越来越多人的欢迎和选择，就连google每年举办的面向全球的大学生的编程实习项目，就是跟payoneer合作来给不同国家的学生发放助学金的，<a href="https://developers.google.com/open-source/gsoc/help/images/payoneer-card.png" target="_blank"> 这里 </a>查看google标志的payoneer万事达信用卡的图片
 
 **国际线上银行账户(美国等国)：** 注册[payoneer](https://share.payoneer.com/nav/QddYoACaq2TqdDFpCXzEU27pSfRFhu0qyMUsj0VQwYg9NDTRmr5qejSq3pZETJCogMpGAS-cO4AP1INrebZmPw2)之后，它会提供给你美国、英国、德国、日本等几个主要发达国家的在线银行账户，分别可以用来收取美元、英镑、欧元和日元等货币，中国用户可以绑定中国大陆国内的银行卡，然后就可以将账户资金提现到中国国内的银行，直接在线转换为人民币，不占用个人外汇额度，目前注册的话，只有1.2%的提现手续费，没有入账费等其他费用。50美元/欧元等以上就可以提现了，提现时间快的话当天到账(一般都是当天就到账了)，慢的话两天左右到账，建议在星期一到星期五上午进行提现。
 
